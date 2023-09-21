@@ -1,4 +1,4 @@
-let result = 22
+let result = 30
 
 if(result >=80){
     console.log("you got A+")
@@ -6,6 +6,7 @@ if(result >=80){
 else if(result >=70 && result <=79){
     console.log("you got A")
 }
+
 
 else if(result >=60 && result <=69 ) {
     console.log("you got A-")
@@ -26,4 +27,3 @@ else if(result >=33 && result <=39 ) {
 else if(result <=32) {
     console.log("you failed")
 }
-
